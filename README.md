@@ -18,3 +18,5 @@ Model and data used in the following paper:
 #### Please note:
 This model is not the most recent version of the multispecies model and it appears as it was used in the paper. 
 A new and improved version of the model is available in the repository "MS_SSM". Please consider this latter repository for an updated version of the model.
+
+[![DOI](https://zenodo.org/badge/174992748.svg)](https://zenodo.org/badge/latestdoi/174992748)
