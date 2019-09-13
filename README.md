@@ -12,11 +12,10 @@ Model and data used in the following paper:
 * The script "**MS_SSM_make.random.fn.R**" is the function that creates the random argument of the objective function depending on the options chosen in the models  
 
 #### Data:
-* The 1000 data sets used in the paper are available as lists in "**sim_data_all.RData**"  
+* The 1000 data sets used in the paper are available as lists in "**sim_data_all.RData**" (downloadable at https://doi.org/10.5281/zenodo.3407512)  
 * A set of initial values is available in "**init.RData**"  
 
 #### Please note:
 This model is not the most recent version of the multispecies model and it appears as it was used in the paper. 
 A new and improved version of the model is available in the repository "MS_SSM". Please consider this latter repository for an updated version of the model.
 
-[![DOI](https://zenodo.org/badge/174992748.svg)](https://zenodo.org/badge/latestdoi/174992748)
