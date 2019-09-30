@@ -2,7 +2,7 @@
 
 Model and data used in the following paper:  
 
-**Trijoulet V., Fay G. and Miller T.J. 2019 Performance of a state-space multispecies model: what are the consequences of ignoring predation and process errors in stock assessments? Journal of Applied Ecology**
+**Trijoulet V., Fay G. and Miller T.J. 2019 Performance of a state-space multispecies model: what are the consequences of ignoring predation and process errors in stock assessments? Journal of Applied Ecology. https://doi.org/10.1111/1365-2664.13515**
 
 #### Scripts:  
 * The estimation models (EMs) can be fitted from the "**Fitting_the_EMs.R**" file  
